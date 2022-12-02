@@ -13,7 +13,6 @@ nano start.sh (edit wallet address with your own)<br>
 CTRL+X<br>
 ./start.sh<br>
 
-
-If you like my work, donate here:
+Support my work 🥺
 MintMe Wallet Address 
 0x05C5De4C36c050cE3f4C2E385bA60C75FC19Be64
