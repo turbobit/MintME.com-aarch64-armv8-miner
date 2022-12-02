@@ -1,0 +1,1 @@
+# MintME.com-aarch64-armv8-miner
