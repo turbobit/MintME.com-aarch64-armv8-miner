@@ -1,11 +1,11 @@
 # MintME.com miner for aarch64, raspberry pi/android
 
 
-Commands:
-sudo apt update
-sudo apt install git
-git clone https://github.com/ghostmichael499/MintME.com-aarch64-armv8-miner
-cd MintME.com-aarch64-armv8-miner
+Commands:<br>
+sudo apt update<br>
+sudo apt install git<br>
+git clone https://github.com/ghostmichael499/MintME.com-aarch64-armv8-miner<br>
+cd MintME.com-aarch64-armv8-miner<br>
 nano start.sh (edit wallet address with your own)
 
 If you like my work, donate here:
