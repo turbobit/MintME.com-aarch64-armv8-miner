@@ -5,6 +5,7 @@ Commands:<br>
 
 sudo apt update<br>
 sudo apt install git<br>
+sudo apt install nano <br>
 git clone https://github.com/ghostmichael499/MintME.com-aarch64-armv8-miner<br>
 cd MintME.com-aarch64-armv8-miner<br>
 chmod +x *<br>
