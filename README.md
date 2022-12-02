@@ -1,6 +1,6 @@
 # MintME.com miner for aarch64, raspberry pi/android
 
-
+You will need Ubuntu 20.04 or 22.04 (Userland or Termux)
 Commands:<br>
 
 sudo apt update<br>
