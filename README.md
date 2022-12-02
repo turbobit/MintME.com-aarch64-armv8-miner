@@ -2,14 +2,15 @@
 
 
 Commands:<br>
+
 sudo apt update<br>
 sudo apt install git<br>
 git clone https://github.com/ghostmichael499/MintME.com-aarch64-armv8-miner<br>
 cd MintME.com-aarch64-armv8-miner<br>
-chmod +x *
-nano start.sh (edit wallet address with your own)
-CTRL+X
-./start.sh
+chmod +x *<br>
+nano start.sh (edit wallet address with your own)<br>
+CTRL+X<br>
+./start.sh<br>
 
 
 If you like my work, donate here:
